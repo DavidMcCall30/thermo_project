@@ -1,2 +1,12 @@
 suppl
 *.txt
+*.4tc
+*.4ct
+*.dvi
+*.idv
+*.lg
+*log
+*.out
+*.pdf
+*.tmp
+*.xref
